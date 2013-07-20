@@ -1,0 +1,21 @@
+.apMessage {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: none;
+  padding: 15px 10px;
+  background: #FFEB56;
+  border-radius: 5px;
+  border: solid 1px #A3A300;
+  box-shadow: 0 0 15px 0 #222;
+  direction: rtl;
+  text-align: center;
+  cursor: pointer;
+}
+.apMessage .message {
+  background: #DEF55F;
+  border: solid 1px #a2d246;
+  border-radius: 5px;
+  font-family: Tahoma;
+  padding: 10px 35px;
+}
